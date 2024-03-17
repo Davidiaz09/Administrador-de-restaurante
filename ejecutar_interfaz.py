@@ -4,7 +4,7 @@ from entrywid_checkb import *
 import calculadora
 from botones_panel_der import *
 from database import *
-from variables import *
+from listas import *
 
 
 #Iniciando "tkinter"
