@@ -85,8 +85,8 @@ def panel_izquierdo():
     
     
     #Creando etiquetas del subpanel inferior costos:    
-    crear_etiqueta(panel_costos, "Costo comida", 0, 0, 41)
-    crear_etiqueta(panel_costos, "Costo bebida", 1, 0, 41)   
+    crear_etiqueta(panel_costos, "Costo comidas", 0, 0, 41)
+    crear_etiqueta(panel_costos, "Costo bebidas", 1, 0, 41)   
     crear_etiqueta(panel_costos, "Costo postres", 2, 0, 41)
     crear_etiqueta(panel_costos, "Subtotal", 0, 3, 41)
     crear_etiqueta(panel_costos, "Impuestos", 1, 3, 41)
