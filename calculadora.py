@@ -12,7 +12,8 @@ def calculadora(panel_principal_calculadora):
     No Args.
     No Returns.
     """
-    
+
+    #Creando la pantalla de la calculadora:
     pantalla = Entry(panel_principal_calculadora, font=("arial", 12), bd=2, width=31, relief="flat")
     pantalla.grid(row=0, column=0, columnspan=4)
     
